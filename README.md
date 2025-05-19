@@ -53,7 +53,7 @@
 ### 📫 ¿Cómo contactarme?
 
 - Email: imsrosell2002@gmail.com  
-- LinkedIn: [Iván Morell](https://www.linkedin.com/in/ivan-morell/)  
+- LinkedIn: [Iván Morell](https://www.linkedin.com/in/ivan-morell-b76073245/)  
 - Web personal: [pethotelp9.com](https://pethotelp9.com) 
 
 ---
