@@ -7,43 +7,44 @@
 
 <p align="left">
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40"/>
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40"/>
+  <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="40" style="background-color: white; border-radius: 8px"/>
 
-  <!-- DBs -->
+  <!-- Bases de datos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL Server" width="40"/>
 
-  <!-- DevOps -->
+  <!-- DevOps y otros -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
 </p>
+
 
 ---
 
 ### 🚀 Proyectos destacados
 
 - 🐶 **Pet Hotel**: Plataforma Laravel para reservas de hospedaje canino con panel administrativo, pagos con Stripe, predicción de razas (IA) y sistema de afiliados con Amazon.
-- 🎬 **CineFinder**: Buscador de películas integrado con TMDb usando Laravel y Vue.
-- 📊 **K9Scanner AI**: Microservicio en FastAPI con modelo de clasificación de razas usando Hugging Face.
+- 🎬 **Filmer**: Gestión de películas y actualidad integrado con TMDb usando Laravel.
+- 📊 **K9Scanner AI**: Microservicio en FastAPI con modelo de clasificación de razas usando un Modelo de Hugging Face.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanMorell&show_icons=true&theme=radical" alt="Ivan GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ims2002&show_icons=true&theme=radical" alt="Ivan GitHub stats"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMorell&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ims2002&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
