@@ -34,6 +34,7 @@
 ### 🚀 Proyectos destacados
 
 - 🐶 **Pet Hotel**: Plataforma Laravel para reservas de hospedaje canino con panel administrativo, pagos con Stripe, predicción de razas (IA) y sistema de afiliados con Amazon.
+- [pethotelp9.com](https://pethotelp9.com) 
 - 🎬 **Filmer**: Gestión de películas y actualidad integrado con TMDb usando Laravel.
 - 📊 **K9Scanner AI**: Microservicio en FastAPI con modelo de clasificación de razas usando un Modelo de Hugging Face.
 
@@ -42,7 +43,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ims2002&show_icons=true&theme=radical" alt="Ivan GitHub stats"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Ims2002&show_icons=true&theme=radical" alt="Ivan GitHub stats"/>-->
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ims2002&layout=compact&theme=radical" alt="Top languages" />
 </p>
@@ -53,7 +54,7 @@
 
 - Email: imsrosell2002@gmail.com  
 - LinkedIn: [Iván Morell](https://www.linkedin.com/in/ivan-morell/)  
-- Web personal: [pethotelp9.com](https://pethotelp9.com) (opcional si la tienes)
+- Web personal: [pethotelp9.com](https://pethotelp9.com) 
 
 ---
 
