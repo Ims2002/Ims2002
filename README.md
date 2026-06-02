@@ -99,17 +99,27 @@ mantra:        "El mundo es cómo lo programamos."
 ### 📈 GitHub en cifras
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ims2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ivan GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ims2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="180"/>
+  <a href="https://github.com/Ims2002">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ims2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ivan GitHub stats" height="180"/>
+  </a>
+  <a href="https://github.com/Ims2002">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ims2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="180"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ims2002&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <a href="https://github.com/Ims2002">
+    <img src="https://streak-stats.demolab.com/?user=Ims2002&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ims2002&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+  <a href="https://github.com/Ims2002">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ims2002&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+  </a>
 </p>
+
+<sub>⚠️ Las estadísticas se generan dinámicamente desde servicios externos (vercel.app, demolab.com). En el preview local de Markdown no se ven, pero <strong>sí cargan correctamente en GitHub</strong> una vez publicado el README.</sub>
 
 ---
 
