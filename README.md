@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Iván Morell</h1>
 
-<h3 align="center">Desarrollador Web Full Stack · Apasionado por la IA, los datos y el desarrollo ágil</h3>
+<h3 align="center">Data Analyst · Apasionado por la IA, los datos y el desarrollo ágil</h3>
 
 <p align="center">
   <a href="https://portfolio-ivan-ms.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
